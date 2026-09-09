@@ -1,6 +1,6 @@
 {
   "cityId": "atx",
-  "generated": "2026-09-08T14:13:08Z",
+  "generated": "2026-09-09T14:13:43Z",
   "items": [
     {
       "id": "sample-deal-replace-me",
@@ -31,16 +31,16 @@
     {
       "id": "weather-now",
       "lane": "weather",
-      "headline": "Today: Sunny then Slight Chance Showers And Thunderstorms, 101°F",
+      "headline": "Today: Mostly Sunny, 101°F",
       "link": "https://forecast.weather.gov/MapClick.php?lat=30.2672&lon=-97.7431",
       "label": "Weather",
       "icon": "☀️",
-      "detail": "A slight chance of showers and thunderstorms after 4pm. Sunny, with a high near 101. Heat index values as high as 110. South southeast wind 0 to 5 mph. Chance of precipitation is 20%. Tonight: Slight Chance Showers And Thunderstorms then Mostly Clear, 79°F.",
+      "detail": "Mostly sunny, with a high near 101. Heat index values as high as 108. South southeast wind 0 to 5 mph. Tonight: Partly Cloudy, 77°F.",
       "priority": 10,
-      "published": "2026-09-08T14:13:08Z"
+      "published": "2026-09-09T14:13:43Z"
     },
     {
-      "id": "news-kut-61598522",
+      "id": "news-kut-87789158",
       "lane": "news",
       "headline": "15 years ago, the Labor Day wildfires upended and rewrote thousands of lives",
       "link": "https://www.kut.org/news/2026-09-07/15-years-ago-the-labor-day-wildfires-upended-and-rewrote-thousands-of-lives",
@@ -52,7 +52,7 @@
       "published": "Mon, 07 Sep 2026 16:29:41 GMT"
     },
     {
-      "id": "news-kut-23861240",
+      "id": "news-kut-94654468",
       "lane": "news",
       "headline": "‘She wanted to be a big star’: Ray Benson reflects on friendship with Dolly Parton",
       "link": "https://www.kut.org/life-arts/2026-08-26/dolly-parton-texas-ray-benson-memorial",
@@ -64,19 +64,19 @@
       "published": "Wed, 26 Aug 2026 19:43:42 GMT"
     },
     {
-      "id": "news-kxan-8203633",
+      "id": "news-kxan-52780839",
       "lane": "news",
-      "headline": "'Make it right': New Texas law regulates solar retailers and salespeople",
-      "link": "https://www.kxan.com/investigations/make-it-right-new-texas-law-regulates-solar-retailers-and-salespeople/",
+      "headline": "Austin Police investigate alleged 'indecent exposure' at Buddy's Burger",
+      "link": "https://www.kxan.com/news/local/austin/austin-police-investigate-alleged-indecent-exposure-at-buddys-burger/",
       "label": "Local News",
       "icon": "📰",
       "detail": "KXAN",
       "source": "KXAN",
       "priority": 30,
-      "published": "Tue, 08 Sep 2026 12:00:00 +0000"
+      "published": "Tue, 08 Sep 2026 21:15:55 +0000"
     },
     {
-      "id": "news-austinmonitor-96824513",
+      "id": "news-austinmonitor-38570006",
       "lane": "news",
       "headline": "Our last update: Everything you need to know",
       "link": "https://austinmonitor.com/stories/2025/11/whats-next/",
